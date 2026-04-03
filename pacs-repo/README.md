@@ -191,11 +191,7 @@ pacs-secure-cloud-architecture/
 ## Author
 
 **Louboulat Milandou Justesse**
-L3 Cloud Infrastructure & Cybersecurity
+Cloud | Networking | Linux
 Dakar, Senegal — 2026
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
