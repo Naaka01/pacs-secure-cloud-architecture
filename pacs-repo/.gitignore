@@ -1,0 +1,45 @@
+# AWS Credentials — NEVER commit these
+.env
+.env.*
+credentials
+*.pem
+*.key
+*.ppk
+.aws/
+
+# Terraform (for future use)
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+terraform.tfvars
+
+# Sensitive config files
+config.json
+secrets.json
+*secret*
+*password*
+*credential*
+
+# OS files
+.DS_Store
+.DS_Store?
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Python (if used for scripts)
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
