@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A hands-on AWS infrastructure project implementing a secure, segmented cloud architecture using industry best practices. Built as part of an L3 Cloud Infrastructure & Cybersecurity curriculum.
+A hands-on AWS infrastructure project implementing a secure, segmented cloud architecture using industry best practices.
 
 ---
 
